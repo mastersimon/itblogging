@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE literature SYSTEM "literature.dtd">
+
+<literature>
+  <book>
+    <authors>
+      <author>
+        <firstName>Helmut</firstName>
+        <lastName>Vonhoegen</lastName>
+      </author>
+    </authors>
+    <title>Einstieg in XML</title>
+    <edition>
+      <publisher>Galileo Computing</publisher>
+      <editionNo>2</editionNo>
+      <publicationYear>2004</publicationYear>
+    </edition>
+    <ISBN>3-89842-488-X</ISBN>
+  </book>
+  <book>
+    <authors>
+      <author>
+        <firstName>Dirk</firstName>
+        <lastName>Ammelburger</lastName>
+      </author>
+    </authors>
+    <title>
+      XML - Grundlagen der Sprache und Anwendungen in der Praxis
+    </title>
+    <edition>
+      <publisher>Hanser Verlag</publisher>
+      <editionNo>1</editionNo>
+      <publicationYear>2004</publicationYear>
+    </edition>
+    <ISBN>3-446-22562-5</ISBN>
+  </book>
+  <book>
+    <authors>
+      <author>
+        <firstName>Ed</firstName>
+        <lastName>Tittel</lastName>
+      </author>
+      <author>
+        <firstName>Frank</firstName>
+        <lastName>Boumphrey</lastName>
+      </author>
+    </authors>
+    <title>XML für Dummies</title>
+    <edition>
+      <publisher>mitp</publisher>
+      <editionNo>2</editionNo>
+      <publicationYear>2002</publicationYear>
+    </edition>
+    <ISBN>3-8266-2942-6</ISBN>
+  </book>
+  <book>
+    <authors>
+      <author>
+        <firstName>Charles F.</firstName>
+        <lastName>Goldfarb</lastName>
+      </author>
+      <author>
+        <firstName>Paul</firstName>
+        <lastName>Prescod</lastName>
+      </author>
+    </authors>
+    <title>Das XML-Handbook</title>
+    <edition>
+      <publisher>Addison-Wesley</publisher>
+      <editionNo>1</editionNo>
+      <publicationYear>2000</publicationYear>
+    </edition>
+    <ISBN>3-8273-1712-6</ISBN>
+  </book>
+</literature>

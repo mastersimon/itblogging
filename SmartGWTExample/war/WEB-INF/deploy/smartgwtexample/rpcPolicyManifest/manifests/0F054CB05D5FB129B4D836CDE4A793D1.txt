@@ -1,0 +1,2 @@
+serviceClass: de.itblogging.gwt.smartgwt.client.GreetingService
+path: 4CDE90A36BA680D3B1C5094D64C7AF9B.gwt.rpc

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:literature xmlns:ns2="http://www.itblogging.de/myNameSpace"
+	version="0.1">
+	<currentTime>2012-04-09T20:39:52.364+02:00</currentTime>
+	<booklist>
+		<book>
+			<title>Einstieg in XML</title>
+			<isbn>3-89842-488-X</isbn>
+			<editionInfo>
+				<numberOfEdition>2</numberOfEdition>
+				<publicationYear>2004</publicationYear>
+				<publisher>Galileo Computing</publisher>
+			</editionInfo>
+			<authorlist>
+				<author>
+					<firstName>Helmut</firstName>
+					<lastName>Vonhoegen</lastName>
+				</author>
+			</authorlist>
+		</book>
+	</booklist>
+</ns2:literature>

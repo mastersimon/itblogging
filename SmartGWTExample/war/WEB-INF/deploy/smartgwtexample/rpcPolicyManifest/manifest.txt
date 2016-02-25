@@ -1,0 +1,2 @@
+# Module smartgwtexample
+# RPC service class, partial path of RPC policy file

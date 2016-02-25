@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!ELEMENT literature (book*)>
+<!ELEMENT book (authors, title, edition, ISBN)>
+<!ELEMENT authors (author+)>
+<!ELEMENT author (firstName, lastName)>
+<!ELEMENT firstName (#PCDATA)>
+<!ELEMENT lastName (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT edotopm (publisher, edition, publicationYear)>
+<!ELEMENT publisher (#PCDATA)>
+<!ELEMENT edition (#PCDATA)>
+<!ELEMENT publicationYear (#PCDATA)>
+<!ELEMENT ISBN (#PCDATA)>
