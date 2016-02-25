@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:bookstore xmlns:ns2="de.vogella.xml.jaxb.model">
+    <location>Frankfurt Airport</location>
+    <name>Fraport Bookstore</name>
+</ns2:bookstore>
